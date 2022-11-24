@@ -1,0 +1,34 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.style{
+  background-color: #471e3e;
+  padding: 100px;
+  margin: 50px;
+  
+}
+.divstyle{
+  
+  background: rgb(16, 179, 157);
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.buttonstyle{
+  padding: 20px 35px;
+  background-color: cadetblue;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.formstyle{
+  background-color: rgb(24, 114, 114);
+  padding: 200px;
+ 
+  font-size:x-large;
+  
+}
